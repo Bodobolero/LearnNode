@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -24,4 +24,3 @@ Once the server is running, open the project in the shape of 'https://projectnam
 =======
 # LearnNode
 github repository to experiment with  cloud9 and node.js
->>>>>>> a15b749be03cfa610b6d960e0824da672f0d21b9
